@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Introduction
+vue-router vuex bootstrap-vue transition for vue-cli3.0 sample 
+
+some vue.config.js test.
